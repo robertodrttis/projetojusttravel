@@ -1,2 +1,4 @@
 # projetojusttravel
 Projeto desenvolvido com GraphQl, React js, Bootstrap, e Styled Components, Test em Jest.
+
+Contar a sua experiência: foi uma experiencia boa, eu realmente amo o que faço e sempre vejo cada oportunidade como uma chance de mudar minha vida e demostrar e ganhar experiencias cada vez mais, tecnicamente não tive tanta dificuldade porém meus dias ultimamente não tem sido faceis por questão financeiras e ando muito preocupado, tenho que fazer bicos de motoboy o que me deixa triste pós não gosto, vivo em constante risco e chego muito cansado mas entreguei meu melhor dentro do prazo nas minhas condiçoes, que Deus abençoe essa oportunidade e eu possa demotrar meus resultados e valores pra vocês, Amém! 
